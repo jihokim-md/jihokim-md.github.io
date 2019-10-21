@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Title area | MDneural.net</title>
+    <link>/en/course/templates/</link>
+      <atom:link href="/en/course/templates/index.xml" rel="self" type="application/rss+xml" />
+    <description>Title area</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>MDneural.net © 2019</copyright>
+    <image>
+      <url>img/logo.png</url>
+      <title>Title area</title>
+      <link>/en/course/templates/</link>
+    </image>
+    
+  </channel>
+</rss>
