@@ -3,6 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/course/med/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/med/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/med/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/course/ml/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/ml/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/ml/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/course/stats/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/stats/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/stats/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/course/templates/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/templates/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/templates/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/course/ds/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/ds/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/ds/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/course/med/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -48,16 +121,16 @@
   </url>
   
   <url>
-    <loc>/en/course/ds/1.post1/</loc>
+    <loc>/en/course/ds/1.1_first/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/course/ds/1.post1/"
+                href="/course/ds/1.1_first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/course/ds/1.post1/"
+                href="/en/course/ds/1.1_first/"
                 />
   </url>
   
@@ -107,44 +180,44 @@
   </url>
   
   <url>
-    <loc>/en/course/ds/1.post2/</loc>
+    <loc>/en/course/ds/1.2_second_thing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/course/ds/1.post2/"
+                href="/course/ds/1.2_second_thing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/course/ds/1.post2/"
+                href="/en/course/ds/1.2_second_thing/"
                 />
   </url>
   
   <url>
-    <loc>/en/course/ds/1.post3/</loc>
+    <loc>/en/course/ds/1.3_3rd_-things/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/course/ds/1.post3/"
+                href="/course/ds/1.3_3rd_-things/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/course/ds/1.post3/"
+                href="/en/course/ds/1.3_3rd_-things/"
                 />
   </url>
   
   <url>
-    <loc>/en/course/ds/1.post4/</loc>
+    <loc>/en/course/ds/2.1_post4/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/course/ds/1.post4/"
+                href="/course/ds/2.1_post4/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/course/ds/1.post4/"
+                href="/en/course/ds/2.1_post4/"
                 />
   </url>
   
@@ -205,51 +278,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/post/article/2nd-post/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/course/med/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/med/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/med/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/course/ml/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/ml/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/ml/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/course/stats/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/stats/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/stats/"
                 />
   </url>
   
@@ -376,34 +404,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/course/templates/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/templates/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/templates/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/course/ds/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/ds/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/ds/"
                 />
   </url>
   

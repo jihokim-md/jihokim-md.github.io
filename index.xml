@@ -125,9 +125,9 @@
     
     <item>
       <title>첫번째 포스트!</title>
-      <link>/course/ds/1.post1/</link>
+      <link>/course/ds/1.1_first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/course/ds/1.post1/</guid>
+      <guid>/course/ds/1.1_first/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
@@ -279,9 +279,9 @@
     
     <item>
       <title>두번째 포스트!</title>
-      <link>/course/ds/1.post2/</link>
+      <link>/course/ds/1.2_second_thing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/course/ds/1.post2/</guid>
+      <guid>/course/ds/1.2_second_thing/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
@@ -318,9 +318,9 @@
     
     <item>
       <title>3번째 포스트!</title>
-      <link>/course/ds/1.post3/</link>
+      <link>/course/ds/1.3_3rd_-things/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/course/ds/1.post3/</guid>
+      <guid>/course/ds/1.3_3rd_-things/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
@@ -355,9 +355,9 @@
     
     <item>
       <title>4번째 포스트!</title>
-      <link>/course/ds/1.post4/</link>
+      <link>/course/ds/2.1_post4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/course/ds/1.post4/</guid>
+      <guid>/course/ds/2.1_post4/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
