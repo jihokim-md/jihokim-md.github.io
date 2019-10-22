@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Title area | MDneural.net</title>
+    <title>&lt;제목&gt; | MDneural.net</title>
     <link>/course/templates/</link>
       <atom:link href="/course/templates/index.xml" rel="self" type="application/rss+xml" />
-    <description>Title area</description>
+    <description>&lt;제목&gt;</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2019</copyright>
     <image>
       <url>img/logo.png</url>
-      <title>Title area</title>
+      <title>&lt;제목&gt;</title>
       <link>/course/templates/</link>
     </image>
     
