@@ -5,12 +5,28 @@
     <link>/en/tags/</link>
       <atom:link href="/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>MDneural.net © 2019</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>MDneural.net © 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/logo.png</url>
       <title>Tags</title>
       <link>/en/tags/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/en/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/en/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/en/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/en/tags/demo/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

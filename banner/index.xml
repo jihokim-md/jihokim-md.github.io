@@ -5,7 +5,7 @@
     <link>/banner/</link>
       <atom:link href="/banner/index.xml" rel="self" type="application/rss+xml" />
     <description>Banners</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2019</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2019</copyright><lastBuildDate>Fri, 04 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/logo.png</url>
       <title>Banners</title>
@@ -15,7 +15,7 @@
     <item>
       <title>External Project</title>
       <link>/banner/stats/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/banner/stats/</guid>
       <description></description>
     </item>
@@ -23,24 +23,24 @@
     <item>
       <title>Internal Project</title>
       <link>/banner/ds/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/banner/ds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/banner/med/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/banner/med/</guid>
+      <link>/banner/ml/</link>
+      <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/banner/ml/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Internal Project</title>
-      <link>/banner/ml/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/banner/ml/</guid>
+      <link>/banner/med/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/banner/med/</guid>
       <description></description>
     </item>
     
