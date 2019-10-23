@@ -13,20 +13,7 @@
     </image>
     
     <item>
-      <title>First post!</title>
-      <link>/en/post/article/1st-post/</link>
-      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/en/post/article/1st-post/</guid>
-      <description>
-
-&lt;h1 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h1&gt;
-
-&lt;p&gt;This is the first post of MDNN&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Second post!</title>
+      <title>두번째 포스트!</title>
       <link>/en/post/article/2nd-post/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/en/post/article/2nd-post/</guid>
@@ -34,7 +21,20 @@
 
 &lt;h1 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h1&gt;
 
-&lt;p&gt;This is the Second post of MDNN&lt;/p&gt;
+&lt;p&gt;MDNN의 두번째 포스트입니다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>첫번째 포스트!</title>
+      <link>/en/post/article/1st-post/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/en/post/article/1st-post/</guid>
+      <description>
+
+&lt;h1 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h1&gt;
+
+&lt;p&gt;MDNN의 첫번째 포스트입니다.&lt;/p&gt;
 </description>
     </item>
     

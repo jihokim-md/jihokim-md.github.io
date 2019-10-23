@@ -222,18 +222,8 @@
   </url>
   
   <url>
-    <loc>/banner/</loc>
-    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/"
-                />
+    <loc>/blog/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -248,6 +238,21 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/banner/stats/"
+                />
+  </url>
+  
+  <url>
+    <loc>/banner/</loc>
+    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/banner/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/banner/"
                 />
   </url>
   
@@ -312,6 +317,41 @@
   </url>
   
   <url>
+    <loc>/blog/article/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/deep-learning/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/deep-learning/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/tags/deep-learning/"
+                />
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/tags/"
+                />
+  </url>
+  
+  <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -329,11 +369,31 @@
   <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication_types/3/"
+                />
   </url>
   
   <url>
     <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/preprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication/preprint/"
+                />
   </url>
   
   <url>
@@ -369,56 +429,96 @@
   <url>
     <loc>/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication/"
+                />
   </url>
   
   <url>
     <loc>/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/en/tags/source-themes/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/tags/"
+                href="/tags/source-themes/"
                 />
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/blog/misc/2nd-post-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
+    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/misc/1st-post-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
+    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/computer/1st-post/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/article/2nd-post/</loc>
+    <loc>/blog/computer/4th-post/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/article/1st-post/</loc>
+    <loc>/blog/misc/1st-post/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
+    <loc>/blog/misc/2nd-post/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/computer/2nd-post/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/article2/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/deep-learning/"
+                href="/en/project/internal-project/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/tags/deep-learning/"
+                href="/project/internal-project/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/computer-science/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -437,6 +537,11 @@
   </url>
   
   <url>
+    <loc>/tags/ds-ml/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -448,21 +553,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/project/external-project/"
-                />
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/project/internal-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/project/internal-project/"
                 />
   </url>
   
@@ -497,6 +587,16 @@
   </url>
   
   <url>
+    <loc>/tags/medicine/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/others/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -512,28 +612,83 @@
   </url>
   
   <url>
+    <loc>/blog/template/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/publication_types/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication_types/2/"
+                />
   </url>
   
   <url>
     <loc>/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/journal-article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication/journal-article/"
+                />
   </url>
   
   <url>
     <loc>/authors/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/robert-ford/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/authors/robert-ford/"
+                />
   </url>
   
   <url>
     <loc>/publication_types/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication_types/1/"
+                />
   </url>
   
   <url>
     <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/conference-paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication/conference-paper/"
+                />
   </url>
   
   <url>
@@ -548,6 +703,10 @@
                 hreflang="ko"
                 href="/about/"
                 />
+  </url>
+  
+  <url>
+    <loc>/blogpage/</loc>
   </url>
   
   <url>

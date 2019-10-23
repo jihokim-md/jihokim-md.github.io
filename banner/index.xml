@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>External Project</title>
+      <title></title>
       <link>/banner/stats/</link>
       <pubDate>Fri, 04 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/banner/stats/</guid>
@@ -21,7 +21,7 @@
     </item>
     
     <item>
-      <title>Internal Project</title>
+      <title></title>
       <link>/banner/ds/</link>
       <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/banner/ds/</guid>
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Internal Project</title>
+      <title></title>
       <link>/banner/ml/</link>
       <pubDate>Wed, 02 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/banner/ml/</guid>
@@ -37,7 +37,7 @@
     </item>
     
     <item>
-      <title>Internal Project</title>
+      <title></title>
       <link>/banner/med/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       <guid>/banner/med/</guid>
