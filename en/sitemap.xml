@@ -642,16 +642,6 @@
   
   <url>
     <loc>/en/howto/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/howto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/howto/"
-                />
   </url>
   
   <url>

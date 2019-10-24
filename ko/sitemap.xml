@@ -710,17 +710,7 @@
   </url>
   
   <url>
-    <loc>/howto/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/howto/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/howto/"
-                />
+    <loc>/coursepage/</loc>
   </url>
   
   <url>
