@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What is Data Science | MDneural.net</title>
+    <title>Intro to Statistics | MDneural.net</title>
     <link>/course/ds/</link>
       <atom:link href="/course/ds/index.xml" rel="self" type="application/rss+xml" />
-    <description>What is Data Science</description>
+    <description>Intro to Statistics</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2019</copyright>
     <image>
       <url>img/logo.png</url>
-      <title>What is Data Science</title>
+      <title>Intro to Statistics</title>
       <link>/course/ds/</link>
     </image>
     

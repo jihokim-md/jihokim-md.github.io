@@ -1,38 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What is Data Science | MDneural.net</title>
+    <title>Intro to Statistics | MDneural.net</title>
     <link>/course/stats/</link>
       <atom:link href="/course/stats/index.xml" rel="self" type="application/rss+xml" />
-    <description>What is Data Science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2019</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <description>Intro to Statistics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2019</copyright><lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/logo.png</url>
-      <title>What is Data Science</title>
+      <title>Intro to Statistics</title>
       <link>/course/stats/</link>
     </image>
     
     <item>
-      <title>첫번째 포스트!</title>
+      <title>Probability Redux</title>
       <link>/course/stats/1.post1/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
       <guid>/course/stats/1.post1/</guid>
       <description>
 
-&lt;h1 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h1&gt;
+&lt;p&gt;앞으로 통계 공부를 하는데 있어서 중요한 이론들을 다시 살펴보도록 하자&lt;/p&gt;
 
-&lt;p&gt;MDNN의 첫번째 포스트입니다.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;laws-of-large-numbers-큰-수의-법칙&#34;&gt;Laws of Large Numbers (큰 수의 법칙)&lt;/h2&gt;
 
-&lt;p&gt;확률변수 $X_1, X_2,&amp;hellip;,X&lt;em&gt;n\sim^{i.i.d} X$에 대해 $\mu = \Epsilon[X]$,  $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.
-$$
-\bar X&lt;/em&gt; n:=\frac{1}{n}\sum &lt;em&gt;{i=1}^ n X&lt;/em&gt; i \xrightarrow [n\to \infty ]{\mathbf{P},\mbox{ a.s.}} \mu
+&lt;p&gt;확률변수 $X_1, X_2,&amp;hellip;,X_n\sim^{i.i.d} X$에 대해 $\mu = \sum [X]$,  $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.&lt;/p&gt;
+
+&lt;p&gt;$$
+\bar X_n:=\frac{1}{n}\sum _{i=1}^ n X_i \xrightarrow [n\to \infty ]{\mathbf{P},\mbox{ a.s.}} \mu
 $$&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;central-limit-theorem-중심극한-정리&#34;&gt;Central Limit theorem (중심극한 정리)&lt;/h2&gt;
 
-&lt;p&gt;확률변수 $X_1, X_2,&amp;hellip;,X_n\sim^{i.i.d} X$에 대해 $\mu = \Epsilon[X]$, $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.&lt;/p&gt;
+&lt;p&gt;확률변수 $X_1, X_2,&amp;hellip;,X_n\sim^{i.i.d} X$에 대해 $\mu = \sum[X]$, $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.&lt;/p&gt;
 
 &lt;p&gt;$$
 \displaystyle \sqrt{n}\, \frac{\bar X_ n-\mu }{\sigma } \quad \displaystyle \xrightarrow [n\to \infty ]{(d)} \quad \displaystyle \mathcal{N}(0,1)&lt;br /&gt;
@@ -42,23 +45,33 @@ $$&lt;/p&gt;
 \text{or equivalently, }\displaystyle \sqrt{n}\, (\bar X_ n-\mu) \quad \displaystyle \xrightarrow [n\to \infty ]{(d)} \quad \displaystyle \mathcal{N}(0,\sigma^2)
 $$&lt;/p&gt;
 
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+
 &lt;h2 id=&#34;hoeffding-s-inequality-호에프딩-부등식&#34;&gt;Hoeffding&amp;rsquo;s Inequality (호에프딩 부등식)&lt;/h2&gt;
 
-&lt;p&gt;주어진 $n (n&amp;gt;0)$에 대하여 동일한 분포를 갖는 독립확률변수 $X_1, X_2,&amp;hellip;,X_n\sim^{i.i.d} X$가 거의 확실하게 수렴(almost surely convergence)한다면, 다시 말해 $P(X \notin [a,b])=0,\quad a,b\ne\infin$ 라면&lt;/p&gt;
+&lt;p&gt;주어진 $n (n&amp;gt;0)$에 대하여 동일한 분포를 갖는 독립확률변수 $X_1, X_2,&amp;hellip;,X_n\sim^{i.i.d} X$가 거의 확실하게 수렴(almost surely convergence) 한다면, 다시 말해 $P(X \notin [a,b])=0,\quad a,b\ne\infty$ 라면&lt;/p&gt;
 
 &lt;p&gt;모든 $\epsilon \gt 0$에 대해 아래의 식이 성립한다.
 $$
-P(|\overline{X_n} - \Epsilon[X]| \geq \epsilon) \leq 2\exp\Bigg(-\frac{2n\epsilon^2}{(b-a)^2}\Bigg)
-$$
-중심극한정리와는 다르게 &lt;strong&gt;Hoeffding&amp;rsquo;s Inequality에서는 n이 클 필요가 없다.&lt;/strong&gt;&lt;/p&gt;
+P(|\overline{X_n} - \sum[X]| \geq \epsilon) \leq 2\exp\Bigg(-\frac{2n\epsilon^2}{(b-a)^2}\Bigg)
+$$&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;중심극한정리와는 다르게 &lt;strong&gt;Hoeffding&amp;rsquo;s Inequality에서는 n이 클 필요가 없다.&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;markov-inequality-마코브-부등식&#34;&gt;Markov Inequality (마코브 부등식)&lt;/h2&gt;
 
 &lt;p&gt;확률변수 $X \geq 0$ 의 평균 $\mu &amp;gt; 0$이면 모든 $t&amp;gt;0$에 대해  아래의 식이 성립한다.
 $$
 P(X \geq t) \leq \frac{\mu}{t}.
-$$
-주의: 마크로브 부등식은 0이상의 확률변수에 대해서만 성립한다.&lt;/p&gt;
+$$&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Note: 마크로브 부등식은 0이상의 확률변수에 대해서만 성립한다.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;chebyshev-inequality-체비쇼프-부등식&#34;&gt;Chebyshev Inequality (체비쇼프 부등식)&lt;/h2&gt;
 

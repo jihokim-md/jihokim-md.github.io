@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/course/stats/</loc>
+    <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/med/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/course/ml/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/course/stats/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -26,17 +26,17 @@
   </url>
   
   <url>
+    <loc>/course/stats/1.post1/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/course/med/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/course/ml/1.post1/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/course/stats/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   

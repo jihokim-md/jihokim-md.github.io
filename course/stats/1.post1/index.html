@@ -83,7 +83,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.5540ea603dd43d6656774291a9df9505.css">
+  <link rel="stylesheet" href="/css/academic.min.dd646e8c7aa1cf63beb68ea9797d8ad3.css">
 
   
 
@@ -114,7 +114,7 @@
   
   <meta property="og:site_name" content="MDneural.net">
   <meta property="og:url" content="/course/stats/1.post1/">
-  <meta property="og:title" content="첫번째 포스트! | MDneural.net">
+  <meta property="og:title" content="Probability Redux | MDneural.net">
   <meta property="og:description" content="It&#39;s summary"><meta property="og:image" content="img/logo.png">
   <meta property="twitter:image" content="img/logo.png"><meta property="og:locale" content="ko-kr">
   
@@ -140,7 +140,7 @@
 
 
 
-  <title>첫번째 포스트! | MDneural.net</title>
+  <title>Probability Redux | MDneural.net</title>
 
 </head>
 
@@ -279,17 +279,26 @@
   
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/course/stats/">What is Data Science</a>
+    <a class="docs-toc-link" href="/course/stats/">Intro to Statistics</a>
 
   </div>
   
   <div class="docs-toc-item">
-    <a class="docs-toc-link" href="/course/stats/1.post1/">Data Science Tools</a>
+    <a class="docs-toc-link" href="/course/stats/1.post1/">Chapter 1</a>
     <ul class="nav docs-sidenav">
       
       <li class="active">
-        <a href="/course/stats/1.post1/">첫번째 포스트!</a>
+        <a href="/course/stats/1.post1/">Probability Redux</a>
       </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/course/stats/1.post2/">Data Science Tools</a>
+    <ul class="nav docs-sidenav">
       
       <li >
         <a href="/course/stats/1.post2/">두번째 포스트!</a>
@@ -313,7 +322,7 @@
 
       <nav id="TableOfContents">
 <ul>
-<li><a href="#hi-to-every-one">Hi to every one</a>
+<li>
 <ul>
 <li><a href="#laws-of-large-numbers-큰-수의-법칙">Laws of Large Numbers (큰 수의 법칙)</a></li>
 <li><a href="#central-limit-theorem-중심극한-정리">Central Limit theorem (중심극한 정리)</a></li>
@@ -333,25 +342,28 @@
       <article class="article">
 
         <div class="docs-article-container">
-          <h1>첫번째 포스트!</h1>
+          <h1>Probability Redux</h1>
           <hr style="margin-bottom: 2rem">
           <div class="article-style">
             
 
-<h1 id="hi-to-every-one">Hi to every one</h1>
+<p>앞으로 통계 공부를 하는데 있어서 중요한 이론들을 다시 살펴보도록 하자</p>
 
-<p>MDNN의 첫번째 포스트입니다.</p>
+<p><br></p>
 
 <h2 id="laws-of-large-numbers-큰-수의-법칙">Laws of Large Numbers (큰 수의 법칙)</h2>
 
-<p>확률변수 $X_1, X_2,&hellip;,X<em>n\sim^{i.i.d} X$에 대해 $\mu = \Epsilon[X]$,  $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.
-$$
-\bar X</em> n:=\frac{1}{n}\sum <em>{i=1}^ n X</em> i \xrightarrow [n\to \infty ]{\mathbf{P},\mbox{ a.s.}} \mu
+<p>확률변수 $X_1, X_2,&hellip;,X_n\sim^{i.i.d} X$에 대해 $\mu = \sum [X]$,  $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.</p>
+
+<p>$$
+\bar X_n:=\frac{1}{n}\sum _{i=1}^ n X_i \xrightarrow [n\to \infty ]{\mathbf{P},\mbox{ a.s.}} \mu
 $$</p>
+
+<p><br></p>
 
 <h2 id="central-limit-theorem-중심극한-정리">Central Limit theorem (중심극한 정리)</h2>
 
-<p>확률변수 $X_1, X_2,&hellip;,X_n\sim^{i.i.d} X$에 대해 $\mu = \Epsilon[X]$, $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.</p>
+<p>확률변수 $X_1, X_2,&hellip;,X_n\sim^{i.i.d} X$에 대해 $\mu = \sum[X]$, $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.</p>
 
 <p>$$
 \displaystyle \sqrt{n}\, \frac{\bar X_ n-\mu }{\sigma } \quad \displaystyle \xrightarrow [n\to \infty ]{(d)} \quad \displaystyle \mathcal{N}(0,1)<br />
@@ -361,23 +373,33 @@ $$</p>
 \text{or equivalently, }\displaystyle \sqrt{n}\, (\bar X_ n-\mu) \quad \displaystyle \xrightarrow [n\to \infty ]{(d)} \quad \displaystyle \mathcal{N}(0,\sigma^2)
 $$</p>
 
+<p><br></p>
+
 <h2 id="hoeffding-s-inequality-호에프딩-부등식">Hoeffding&rsquo;s Inequality (호에프딩 부등식)</h2>
 
-<p>주어진 $n (n&gt;0)$에 대하여 동일한 분포를 갖는 독립확률변수 $X_1, X_2,&hellip;,X_n\sim^{i.i.d} X$가 거의 확실하게 수렴(almost surely convergence)한다면, 다시 말해 $P(X \notin [a,b])=0,\quad a,b\ne\infin$ 라면</p>
+<p>주어진 $n (n&gt;0)$에 대하여 동일한 분포를 갖는 독립확률변수 $X_1, X_2,&hellip;,X_n\sim^{i.i.d} X$가 거의 확실하게 수렴(almost surely convergence) 한다면, 다시 말해 $P(X \notin [a,b])=0,\quad a,b\ne\infty$ 라면</p>
 
 <p>모든 $\epsilon \gt 0$에 대해 아래의 식이 성립한다.
 $$
-P(|\overline{X_n} - \Epsilon[X]| \geq \epsilon) \leq 2\exp\Bigg(-\frac{2n\epsilon^2}{(b-a)^2}\Bigg)
-$$
-중심극한정리와는 다르게 <strong>Hoeffding&rsquo;s Inequality에서는 n이 클 필요가 없다.</strong></p>
+P(|\overline{X_n} - \sum[X]| \geq \epsilon) \leq 2\exp\Bigg(-\frac{2n\epsilon^2}{(b-a)^2}\Bigg)
+$$</p>
+
+<blockquote>
+<p>중심극한정리와는 다르게 <strong>Hoeffding&rsquo;s Inequality에서는 n이 클 필요가 없다.</strong></p>
+</blockquote>
+
+<p><br></p>
 
 <h2 id="markov-inequality-마코브-부등식">Markov Inequality (마코브 부등식)</h2>
 
 <p>확률변수 $X \geq 0$ 의 평균 $\mu &gt; 0$이면 모든 $t&gt;0$에 대해  아래의 식이 성립한다.
 $$
 P(X \geq t) \leq \frac{\mu}{t}.
-$$
-주의: 마크로브 부등식은 0이상의 확률변수에 대해서만 성립한다.</p>
+$$</p>
+
+<p><i>Note: 마크로브 부등식은 0이상의 확률변수에 대해서만 성립한다.</i></p>
+
+<p><br></p>
 
 <h2 id="chebyshev-inequality-체비쇼프-부등식">Chebyshev Inequality (체비쇼프 부등식)</h2>
 
