@@ -73,7 +73,7 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -102,108 +102,38 @@
   </url>
   
   <url>
+    <loc>/project/auscult/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/machine-learning/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/banner/med/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/article/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+    <loc>/project/personalized-dermacosmetics/</loc>
+    <lastmod>2017-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/deep-learning/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/misc/2nd-post-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
-    <lastmod>2018-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/misc/1st-post-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
-    <lastmod>2018-10-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/computer/1st-post/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/computer/4th-post/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/misc/1st-post/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/misc/2nd-post/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/machine-learning/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/computer/2nd-post/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/article2/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <loc>/project/dr.-hows/</loc>
+    <lastmod>2016-06-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -212,27 +142,7 @@
   </url>
   
   <url>
-    <loc>/tags/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/ds-ml/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/project3/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/project4/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -247,38 +157,8 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/template/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/authors/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -286,7 +166,15 @@
   </url>
   
   <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
     <loc>/blogpage/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
   </url>
   
   <url>
@@ -295,6 +183,14 @@
   
   <url>
     <loc>/course/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
   </url>
   
 </urlset>
