@@ -73,7 +73,27 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/computer-science/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/django_1/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -87,22 +107,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/project/medtorch/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/project/</loc>
-    <lastmod>2020-03-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -184,11 +194,6 @@
   <url>
     <loc>/project/dr.-hows/</loc>
     <lastmod>2016-06-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/computer-science/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
