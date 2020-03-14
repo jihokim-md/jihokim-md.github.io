@@ -432,6 +432,111 @@
   </url>
   
   <url>
+    <loc>/en/authors/admin/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/admin/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/3/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/preprint/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication/preprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/preprint/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/authors/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/authors/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/authors/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/publication/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/tags/source-themes/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/tags/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/source-themes/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/project/dr.-intelli/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -566,20 +671,6 @@
   </url>
   
   <url>
-    <loc>/en/authors/admin/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/authors/admin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/admin/"
-                />
-  </url>
-  
-  <url>
     <loc>/en/blogpage/</loc>
     <xhtml:link
                 rel="alternate"
@@ -590,20 +681,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/blogpage/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/authors/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/authors/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/authors/"
                 />
   </url>
   
@@ -632,34 +709,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/course/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/publication_types/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/publication/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
                 />
   </url>
   

@@ -237,11 +237,6 @@
   </url>
   
   <url>
-    <loc>/en/blog/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/computer-science/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -287,11 +282,6 @@
   </url>
   
   <url>
-    <loc>/en/blog/django_1/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/tags/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -319,11 +309,6 @@
                 hreflang="ko"
                 href="/blog/pytorch_1/"
                 />
-  </url>
-  
-  <url>
-    <loc>/en/blog/pytorch_1/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -464,11 +449,31 @@
   <url>
     <loc>/publication_types/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication_types/3/"
+                />
   </url>
   
   <url>
-    <loc>/en/publication/preprint/</loc>
+    <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/preprint/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication/preprint/"
+                />
   </url>
   
   <url>
@@ -502,13 +507,33 @@
   </url>
   
   <url>
-    <loc>/en/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication/"
+                />
   </url>
   
   <url>
     <loc>/tags/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/tags/source-themes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/tags/source-themes/"
+                />
   </url>
   
   <url>
@@ -632,11 +657,6 @@
   </url>
   
   <url>
-    <loc>/en/blog/template/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -665,10 +685,6 @@
   </url>
   
   <url>
-    <loc>/en/blogpage/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -693,24 +709,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/course/"
-                />
-  </url>
-  
-  <url>
-    <loc>/en/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/publication/"
                 />
   </url>
   
