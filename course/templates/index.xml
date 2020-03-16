@@ -5,7 +5,7 @@
     <link>/course/templates/</link>
       <atom:link href="/course/templates/index.xml" rel="self" type="application/rss+xml" />
     <description>&lt;제목&gt;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2020</copyright>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language>
     <image>
       <url>img/logo.png</url>
       <title>&lt;제목&gt;</title>
