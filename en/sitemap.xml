@@ -3,18 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/en/course/stats/</loc>
+    <loc>/en/course/stats101/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/stats101/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/stats101/"
+                />
   </url>
   
   <url>
-    <loc>/en/course/med/</loc>
+    <loc>/en/course/mltheory/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/course/ml/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/mltheory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/mltheory/"
+                />
   </url>
   
   <url>
@@ -32,53 +47,133 @@
   </url>
   
   <url>
-    <loc>/en/course/ds/</loc>
+    <loc>/en/course/python101/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/python101/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/python101/"
+                />
   </url>
   
   <url>
-    <loc>/en/course/stats/1.post1/</loc>
+    <loc>/en/course/stats101/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/stats101/1.post1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/stats101/1.post1/"
+                />
   </url>
   
   <url>
-    <loc>/en/course/med/1.post1/</loc>
+    <loc>/en/course/mltheory/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/mltheory/1.post1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/mltheory/1.post1/"
+                />
   </url>
   
   <url>
-    <loc>/en/course/ml/1.post1/</loc>
+    <loc>/en/course/python101/1.1_first/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/python101/1.1_first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/python101/1.1_first/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/course/mltheory/1.post2/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/mltheory/1.post2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/mltheory/1.post2/"
+                />
   </url>
   
   <url>
-    <loc>/en/course/ds/1.1_first/</loc>
-  </url>
-  
-  <url>
-    <loc>/en/course/med/1.post2/</loc>
+    <loc>/en/course/stats101/1.post2/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/stats101/1.post2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/stats101/1.post2/"
+                />
   </url>
   
   <url>
-    <loc>/en/course/ml/1.post2/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <loc>/en/course/python101/1.2_second_thing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/python101/1.2_second_thing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/python101/1.2_second_thing/"
+                />
   </url>
   
   <url>
-    <loc>/en/course/stats/1.post2/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+    <loc>/en/course/python101/1.3_3rd_-things/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/python101/1.3_3rd_-things/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/python101/1.3_3rd_-things/"
+                />
   </url>
   
   <url>
-    <loc>/en/course/ds/1.2_second_thing/</loc>
-  </url>
-  
-  <url>
-    <loc>/en/course/ds/1.3_3rd_-things/</loc>
-  </url>
-  
-  <url>
-    <loc>/en/course/ds/2.1_post4/</loc>
+    <loc>/en/course/python101/2.1_post4/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/course/python101/2.1_post4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/course/python101/2.1_post4/"
+                />
   </url>
   
   <url>
@@ -217,8 +312,18 @@
   </url>
   
   <url>
-    <loc>/en/banner/stats/</loc>
+    <loc>/en/banner/stats101/</loc>
     <lastmod>2019-10-04T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/banner/stats101/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/banner/stats101/"
+                />
   </url>
   
   <url>
@@ -237,18 +342,33 @@
   </url>
   
   <url>
-    <loc>/en/banner/ds/</loc>
+    <loc>/en/banner/python101/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/banner/python101/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/banner/python101/"
+                />
   </url>
   
   <url>
-    <loc>/en/banner/ml/</loc>
+    <loc>/en/banner/mltheory/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/en/banner/med/</loc>
-    <lastmod>2019-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/banner/mltheory/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/banner/mltheory/"
+                />
   </url>
   
   <url>
@@ -501,6 +621,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="/en/blogpage/"
+                />
+  </url>
+  
+  <url>
+    <loc>/en/coursepage/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/coursepage/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/coursepage/"
                 />
   </url>
   
