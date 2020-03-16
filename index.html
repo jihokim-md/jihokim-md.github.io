@@ -385,12 +385,11 @@
     </h1>
 
     
-    <div style="text-align:left"><script>
-  var typed = new Typed('#typed', {
-    stringsElement: '#typed-strings'
-  });
-</script>
-
+    <div style="text-align:left"><div id="typed-strings">
+  <p>Typed.js is a <strong>JavaScript</strong> library.</p>
+  <p>It <em>types</em> out sentences.</p>
+</div>
+<span id="typed"></span>
 <div id="typed-strings">
   <div style="white-space:nowrap; display:inline-block;">
     <h1 class="hand" style="font-size: 2rem; margin: 0;">👋</h1>
@@ -535,8 +534,13 @@
     
     
     
-    <script src="/js/academic.min.b6905854a9a72b4a8e10cd1d6091de83.js"></script>
+    <script src="/js/academic.min.1af3b12ba199de84d607122ba6f5f787.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
+    <script>
+      var typed = new Typed('#typed', {
+        stringsElement: '#typed-strings'
+      });
+    </script>
     
 
 
