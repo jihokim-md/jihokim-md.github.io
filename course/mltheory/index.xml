@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What is Data Science | MDneural.net</title>
+    <title>What is Machine Learning | MDneural.net</title>
     <link>/course/mltheory/</link>
       <atom:link href="/course/mltheory/index.xml" rel="self" type="application/rss+xml" />
-    <description>What is Data Science</description>
+    <description>What is Machine Learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/logo.png</url>
-      <title>What is Data Science</title>
+      <title>What is Machine Learning</title>
       <link>/course/mltheory/</link>
     </image>
     
