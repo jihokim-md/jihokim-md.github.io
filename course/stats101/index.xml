@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Intro to Statistics | MDneural.net</title>
+    <title>MDneural.net</title>
     <link>/course/stats101/</link>
       <atom:link href="/course/stats101/index.xml" rel="self" type="application/rss+xml" />
-    <description>Intro to Statistics</description>
+    <description>MDneural.net</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><lastBuildDate>Tue, 12 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/logo.png</url>
-      <title>Intro to Statistics</title>
+      <title>MDneural.net</title>
       <link>/course/stats101/</link>
     </image>
     
