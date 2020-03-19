@@ -5,7 +5,7 @@
     <link>/en/course/</link>
       <atom:link href="/en/course/index.xml" rel="self" type="application/rss+xml" />
     <description>Courses</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>MDneural.net © 2020</copyright>
     <image>
       <url>img/logo.png</url>
       <title>Courses</title>

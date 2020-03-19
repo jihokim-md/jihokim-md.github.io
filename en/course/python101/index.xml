@@ -5,7 +5,7 @@
     <link>/en/course/python101/</link>
       <atom:link href="/en/course/python101/index.xml" rel="self" type="application/rss+xml" />
     <description>Intro to Python</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>MDneural.net © 2020</copyright>
     <image>
       <url>img/logo.png</url>
       <title>Intro to Python</title>
