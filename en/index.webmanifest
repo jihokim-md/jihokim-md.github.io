@@ -2,8 +2,8 @@
   "name": "MDneural.net",
   "short_name": "MDneural.net",
   "lang": "en-us",
-  "theme_color": "#8565fc",
-  "background_color": "#8565fc",
+  "theme_color": "#008cdd",
+  "background_color": "#008cdd",
   "icons": [{
     "src": "img/icon-192.png",
     "sizes": "192x192",
