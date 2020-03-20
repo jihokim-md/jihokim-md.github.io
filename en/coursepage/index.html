@@ -31,8 +31,6 @@
   <meta name="description" content="">
 
   
-  <link rel="alternate" hreflang="ko" href="/coursepage/">
-  
   <link rel="alternate" hreflang="en-us" href="/en/coursepage/">
 
   
@@ -85,7 +83,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.99b802a26482a38100118e409dcc1b05.css">
+  <link rel="stylesheet" href="/css/academic.min.78b8f850c96a466a24b34f1969335d9d.css">
 
   
 
@@ -679,6 +677,20 @@
         showCursor: false
       });
     </script>
+    <script type="text/javascript">
+      function textLengthOverCut(txt, len, lastTxt) {
+        if (len == "" || len == null) { 
+            len = 20;
+        }
+        if (lastTxt == "" || lastTxt == null) { 
+            lastTxt = "...";
+        }
+        if (txt.length > len) {
+            txt = txt.substr(0, len) + lastTxt;
+        }
+        return txt;
+      }
+    </script>
     
 
 
@@ -697,15 +709,6 @@
   <div class="col-3 col-md-3" style="display: inline-block; padding: 0;">
     <p style="text-align: left">
       
-
-
-
-
-
-  <a class="translate" href="/coursepage/" style="text-align: left;"><img src="/img/korean.png" style="height: 14px;">
-  </a>
-  <a class="translate_mobile" href="/coursepage/" style="text-align: left;">🇰🇷
-  </a>  
 
 
 

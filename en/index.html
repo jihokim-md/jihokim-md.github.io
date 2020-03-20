@@ -85,7 +85,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.99b802a26482a38100118e409dcc1b05.css">
+  <link rel="stylesheet" href="/css/academic.min.78b8f850c96a466a24b34f1969335d9d.css">
 
   
 
@@ -542,6 +542,20 @@
         backSpeed: 10,
         showCursor: false
       });
+    </script>
+    <script type="text/javascript">
+      function textLengthOverCut(txt, len, lastTxt) {
+        if (len == "" || len == null) { 
+            len = 20;
+        }
+        if (lastTxt == "" || lastTxt == null) { 
+            lastTxt = "...";
+        }
+        if (txt.length > len) {
+            txt = txt.substr(0, len) + lastTxt;
+        }
+        return txt;
+      }
     </script>
     
 

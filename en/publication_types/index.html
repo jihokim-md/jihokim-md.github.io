@@ -85,7 +85,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.99b802a26482a38100118e409dcc1b05.css">
+  <link rel="stylesheet" href="/css/academic.min.78b8f850c96a466a24b34f1969335d9d.css">
 
   
 
@@ -331,25 +331,38 @@
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Publication_types</h1>
+  <div class="container">  
+    <div class="universal-wrapper pt-3" style="padding: 3em 0; margin-top: 28px;">
+      <h1 style="font-size: 2rem; margin: 20px 0 0 0; text-align: left; color: #333e4c; font-family: Source Sans Pro; font-weight: 700;">Publication_types</h1>
 
-  
-
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/en/publication_types/3/">3</a></h2>
-    <div class="article-style">
       
+
+      
+    </div>
+  </div>
+
+
+
+
+<div class="container">
+  
+
+  
+  
+  <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/en\/publication_types\/3\/';">
+
+    
+    
+    
+
+    <div style="height: 100px">
+      <h3 class="article-title mb-2 mt-2">
+        <a href="/en/publication_types/3/">Publication_types</a>
+      </h3>
+      <div class="article-style">
+        <p>
+      </p>
+      </div>
     </div>
   </div>
   
@@ -479,6 +492,20 @@
         backSpeed: 10,
         showCursor: false
       });
+    </script>
+    <script type="text/javascript">
+      function textLengthOverCut(txt, len, lastTxt) {
+        if (len == "" || len == null) { 
+            len = 20;
+        }
+        if (lastTxt == "" || lastTxt == null) { 
+            lastTxt = "...";
+        }
+        if (txt.length > len) {
+            txt = txt.substr(0, len) + lastTxt;
+        }
+        return txt;
+      }
     </script>
     
 

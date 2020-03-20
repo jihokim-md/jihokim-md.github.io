@@ -14,9 +14,9 @@
     
     <item>
       <title>Probability Redux</title>
-      <link>/course/stats101/1.post1/</link>
+      <link>/notes/stats101/1.post1/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/course/stats101/1.post1/</guid>
+      <guid>/notes/stats101/1.post1/</guid>
       <description>
 
 &lt;p&gt;앞으로 통계 공부를 하는데 있어서 중요한 이론들을 다시 살펴보도록 하자&lt;/p&gt;
@@ -89,9 +89,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>첫번째 포스트!</title>
-      <link>/course/mltheory/1.post1/</link>
+      <link>/notes/mltheory/1.post1/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/course/mltheory/1.post1/</guid>
+      <guid>/notes/mltheory/1.post1/</guid>
       <description>
 
 &lt;h1 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h1&gt;
@@ -126,9 +126,9 @@ $$&lt;/p&gt;
     
     <item>
       <title>마크다운 사용법</title>
-      <link>/course/python101/1.1_first/</link>
+      <link>/notes/python101/1.1_first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/course/python101/1.1_first/</guid>
+      <guid>/notes/python101/1.1_first/</guid>
       <description>
 
 &lt;h2 id=&#34;마크다운-주요-문법&#34;&gt;마크다운 주요 문법&lt;/h2&gt;
@@ -359,9 +359,9 @@ __double underscores__
     
     <item>
       <title>두번째 포스트!</title>
-      <link>/course/mltheory/1.post2/</link>
+      <link>/notes/mltheory/1.post2/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/course/mltheory/1.post2/</guid>
+      <guid>/notes/mltheory/1.post2/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
@@ -398,9 +398,9 @@ __double underscores__
     
     <item>
       <title>두번째 포스트!</title>
-      <link>/course/stats101/1.post2/</link>
+      <link>/notes/stats101/1.post2/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      <guid>/course/stats101/1.post2/</guid>
+      <guid>/notes/stats101/1.post2/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
@@ -437,9 +437,9 @@ __double underscores__
     
     <item>
       <title>두번째 포스트!</title>
-      <link>/course/python101/1.2_second_thing/</link>
+      <link>/notes/python101/1.2_second_thing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/course/python101/1.2_second_thing/</guid>
+      <guid>/notes/python101/1.2_second_thing/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
@@ -476,9 +476,9 @@ __double underscores__
     
     <item>
       <title>세번째 포스트!</title>
-      <link>/course/python101/1.3_3rd_-things/</link>
+      <link>/notes/python101/1.3_3rd_-things/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/course/python101/1.3_3rd_-things/</guid>
+      <guid>/notes/python101/1.3_3rd_-things/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
@@ -515,9 +515,9 @@ __double underscores__
     
     <item>
       <title>4번째 포스트!</title>
-      <link>/course/python101/2.1_post4/</link>
+      <link>/notes/python101/2.1_post4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/course/python101/2.1_post4/</guid>
+      <guid>/notes/python101/2.1_post4/</guid>
       <description>
 
 &lt;h2 id=&#34;hi-to-every-one&#34;&gt;Hi to every one&lt;/h2&gt;
@@ -563,9 +563,36 @@ __double underscores__
     
     <item>
       <title>좌충우돌 파이토치 medical imaging 라이브러리 개발기-1</title>
+      <link>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/</guid>
+      <description>&lt;p&gt;머신러닝을 공부하고 파이썬을 사용하면서 편리했던 것 중 하나는 풍부한 라이브러리 였다. 어떤 기능이 필요해서 조금만 구글링을 해보면 이미 해당 기능을 구현해서 라이브러리로 올려놓은 천사같은 분이 있는 경우가 대부분이었다. 라이브러리를 임포트해서 쓰면서 나도 언젠가 오픈소스 라이브러리를 만들어서 많은 사람들에게 도움을 줄 수 있으면 좋겠다고 결심하곤 했었다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>좌충우돌 파이토치 medical imaging 라이브러리 개발기-1</title>
+      <link>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/</guid>
+      <description>&lt;p&gt;머신러닝을 공부하고 파이썬을 사용하면서 편리했던 것 중 하나는 풍부한 라이브러리 였다. 어떤 기능이 필요해서 조금만 구글링을 해보면 이미 해당 기능을 구현해서 라이브러리로 올려놓은 천사같은 분이 있는 경우가 대부분이었다. 라이브러리를 임포트해서 쓰면서 나도 언젠가 오픈소스 라이브러리를 만들어서 많은 사람들에게 도움을 줄 수 있으면 좋겠다고 결심하곤 했었다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>좌충우돌 파이토치 medical imaging 라이브러리 개발기-1</title>
       <link>/blog/pytorch_1/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/blog/pytorch_1/</guid>
+      <description>&lt;p&gt;머신러닝을 공부하고 파이썬을 사용하면서 편리했던 것 중 하나는 풍부한 라이브러리 였다. 어떤 기능이 필요해서 조금만 구글링을 해보면 이미 해당 기능을 구현해서 라이브러리로 올려놓은 천사같은 분이 있는 경우가 대부분이었다. 라이브러리를 임포트해서 쓰면서 나도 언젠가 오픈소스 라이브러리를 만들어서 많은 사람들에게 도움을 줄 수 있으면 좋겠다고 결심하곤 했었다.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>좌충우돌 파이토치에서 사용하는 medical imaging 라이브러리 for radiologist 개발기-2</title>
+      <link>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/</guid>
       <description>&lt;p&gt;머신러닝을 공부하고 파이썬을 사용하면서 편리했던 것 중 하나는 풍부한 라이브러리 였다. 어떤 기능이 필요해서 조금만 구글링을 해보면 이미 해당 기능을 구현해서 라이브러리로 올려놓은 천사같은 분이 있는 경우가 대부분이었다. 라이브러리를 임포트해서 쓰면서 나도 언젠가 오픈소스 라이브러리를 만들어서 많은 사람들에게 도움을 줄 수 있으면 좋겠다고 결심하곤 했었다.&lt;/p&gt;
 </description>
     </item>
@@ -706,9 +733,9 @@ __double underscores__
     
     <item>
       <title></title>
-      <link>/coursepage/</link>
+      <link>/notespage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/coursepage/</guid>
+      <guid>/notespage/</guid>
       <description></description>
     </item>
     

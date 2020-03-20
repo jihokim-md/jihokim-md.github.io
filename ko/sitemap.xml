@@ -3,177 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/course/stats101/</loc>
+    <loc>/notes/stats101/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/stats101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/stats101/"
-                />
   </url>
   
   <url>
-    <loc>/course/mltheory/</loc>
+    <loc>/notes/mltheory/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/mltheory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/mltheory/"
-                />
   </url>
   
   <url>
-    <loc>/course/templates/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/templates/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/templates/"
-                />
+    <loc>/notes/templates/</loc>
   </url>
   
   <url>
-    <loc>/course/python101/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/python101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/python101/"
-                />
+    <loc>/notes/python101/</loc>
   </url>
   
   <url>
-    <loc>/course/stats101/1.post1/</loc>
+    <loc>/notes/stats101/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/stats101/1.post1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/stats101/1.post1/"
-                />
   </url>
   
   <url>
-    <loc>/course/mltheory/1.post1/</loc>
+    <loc>/notes/mltheory/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/mltheory/1.post1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/mltheory/1.post1/"
-                />
   </url>
   
   <url>
-    <loc>/course/python101/1.1_first/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/python101/1.1_first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/python101/1.1_first/"
-                />
+    <loc>/notes/python101/1.1_first/</loc>
   </url>
   
   <url>
-    <loc>/course/mltheory/1.post2/</loc>
+    <loc>/notes/mltheory/1.post2/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/mltheory/1.post2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/mltheory/1.post2/"
-                />
   </url>
   
   <url>
-    <loc>/course/stats101/1.post2/</loc>
+    <loc>/notes/stats101/1.post2/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/stats101/1.post2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/stats101/1.post2/"
-                />
   </url>
   
   <url>
-    <loc>/course/python101/1.2_second_thing/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/python101/1.2_second_thing/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/python101/1.2_second_thing/"
-                />
+    <loc>/notes/python101/1.2_second_thing/</loc>
   </url>
   
   <url>
-    <loc>/course/python101/1.3_3rd_-things/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/python101/1.3_3rd_-things/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/python101/1.3_3rd_-things/"
-                />
+    <loc>/notes/python101/1.3_3rd_-things/</loc>
   </url>
   
   <url>
-    <loc>/course/python101/2.1_post4/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/python101/2.1_post4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/python101/2.1_post4/"
-                />
+    <loc>/notes/python101/2.1_post4/</loc>
   </url>
   
   <url>
@@ -252,7 +132,22 @@
   </url>
   
   <url>
+    <loc>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/pytorch_1/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -615,17 +510,7 @@
   </url>
   
   <url>
-    <loc>/coursepage/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/coursepage/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/coursepage/"
-                />
+    <loc>/notespage/</loc>
   </url>
   
   <url>
@@ -643,17 +528,7 @@
   </url>
   
   <url>
-    <loc>/course/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/course/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/course/"
-                />
+    <loc>/notes/</loc>
   </url>
   
 </urlset>

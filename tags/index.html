@@ -85,7 +85,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.99b802a26482a38100118e409dcc1b05.css">
+  <link rel="stylesheet" href="/css/academic.min.78b8f850c96a466a24b34f1969335d9d.css">
 
   
 
@@ -238,7 +238,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/coursepage"><span>Notes</span></a>
+          <a class="nav-link " href="/notespage"><span>Notes</span></a>
         </li>
 
         
@@ -331,60 +331,123 @@
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>Tags</h1>
+  <div class="container">  
+    <div class="universal-wrapper pt-3" style="padding: 3em 0; margin-top: 28px;">
+      <h1 style="font-size: 2rem; margin: 20px 0 0 0; text-align: left; color: #333e4c; font-family: Source Sans Pro; font-weight: 700;">Tags</h1>
 
-  
+      
 
-  
-</div>
-
-
-
-<div class="universal-wrapper">
-  
-
-  
-  
-  <div>
-    <h2><a href="/tags/computer-science/">Computer Science</a></h2>
-    <div class="article-style">
       
     </div>
   </div>
+
+
+
+
+<div class="container">
   
-  <div>
-    <h2><a href="/tags/machine-learning/">Machine Learning</a></h2>
-    <div class="article-style">
-      
+
+  
+  
+  <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/tags\/computer-science\/';">
+
+    
+    
+    
+
+    <div style="height: 100px">
+      <h3 class="article-title mb-2 mt-2">
+        <a href="/tags/computer-science/">Tags</a>
+      </h3>
+      <div class="article-style">
+        <p>
+      </p>
+      </div>
     </div>
   </div>
   
-  <div>
-    <h2><a href="/tags/source-themes/">Source Themes</a></h2>
-    <div class="article-style">
-      
+  <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/tags\/machine-learning\/';">
+
+    
+    
+    
+
+    <div style="height: 100px">
+      <h3 class="article-title mb-2 mt-2">
+        <a href="/tags/machine-learning/">Tags</a>
+      </h3>
+      <div class="article-style">
+        <p>
+      </p>
+      </div>
     </div>
   </div>
   
-  <div>
-    <h2><a href="/tags/ds-ml/">DS-ML</a></h2>
-    <div class="article-style">
-      
+  <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/tags\/source-themes\/';">
+
+    
+    
+    
+
+    <div style="height: 100px">
+      <h3 class="article-title mb-2 mt-2">
+        <a href="/tags/source-themes/">Tags</a>
+      </h3>
+      <div class="article-style">
+        <p>
+      </p>
+      </div>
     </div>
   </div>
   
-  <div>
-    <h2><a href="/tags/medicine/">Medicine</a></h2>
-    <div class="article-style">
-      
+  <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/tags\/ds-ml\/';">
+
+    
+    
+    
+
+    <div style="height: 100px">
+      <h3 class="article-title mb-2 mt-2">
+        <a href="/tags/ds-ml/">Tags</a>
+      </h3>
+      <div class="article-style">
+        <p>
+      </p>
+      </div>
     </div>
   </div>
   
-  <div>
-    <h2><a href="/tags/others/">Others</a></h2>
-    <div class="article-style">
-      
+  <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/tags\/medicine\/';">
+
+    
+    
+    
+
+    <div style="height: 100px">
+      <h3 class="article-title mb-2 mt-2">
+        <a href="/tags/medicine/">Tags</a>
+      </h3>
+      <div class="article-style">
+        <p>
+      </p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/tags\/others\/';">
+
+    
+    
+    
+
+    <div style="height: 100px">
+      <h3 class="article-title mb-2 mt-2">
+        <a href="/tags/others/">Tags</a>
+      </h3>
+      <div class="article-style">
+        <p>
+      </p>
+      </div>
     </div>
   </div>
   
@@ -514,6 +577,20 @@
         backSpeed: 10,
         showCursor: false
       });
+    </script>
+    <script type="text/javascript">
+      function textLengthOverCut(txt, len, lastTxt) {
+        if (len == "" || len == null) { 
+            len = 20;
+        }
+        if (lastTxt == "" || lastTxt == null) { 
+            lastTxt = "...";
+        }
+        if (txt.length > len) {
+            txt = txt.substr(0, len) + lastTxt;
+        }
+        return txt;
+      }
     </script>
     
 
