@@ -3,57 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/notes/stats101/</loc>
+    <loc>/note/stats101/</loc>
     <lastmod>2019-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/notes/mltheory/</loc>
+    <loc>/note/mltheory/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/notes/templates/</loc>
-  </url>
-  
-  <url>
-    <loc>/notes/python101/</loc>
-  </url>
-  
-  <url>
-    <loc>/notes/stats101/1.post1/</loc>
+    <loc>/note/python101/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/notes/mltheory/1.post1/</loc>
+    <loc>/note/stats101/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/notes/python101/1.1_first/</loc>
-  </url>
-  
-  <url>
-    <loc>/notes/mltheory/1.post2/</loc>
+    <loc>/note/mltheory/1.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/notes/stats101/1.post2/</loc>
+    <loc>/note/python101/1.1_first/</loc>
+  </url>
+  
+  <url>
+    <loc>/note/mltheory/1.post2/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/notes/python101/1.2_second_thing/</loc>
+    <loc>/note/stats101/1.post2/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/notes/python101/1.3_3rd_-things/</loc>
+    <loc>/note/python101/1.2_second_thing/</loc>
   </url>
   
   <url>
-    <loc>/notes/python101/2.1_post4/</loc>
+    <loc>/note/python101/1.3_3rd_-things/</loc>
+  </url>
+  
+  <url>
+    <loc>/note/python101/2.1_post4/</loc>
   </url>
   
   <url>
@@ -132,22 +129,12 @@
   </url>
   
   <url>
-    <loc>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/blog/pytorch_1/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/blog/pytorch_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
+    <loc>/blog/pytorch_2/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -422,66 +409,6 @@
   </url>
   
   <url>
-    <loc>/tags/ds-ml/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/ds-ml/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/tags/ds-ml/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/medicine/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/medicine/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/tags/medicine/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/others/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/others/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/tags/others/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/template/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/template/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/blog/template/"
-                />
-  </url>
-  
-  <url>
     <loc>/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -510,10 +437,6 @@
   </url>
   
   <url>
-    <loc>/notespage/</loc>
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -528,7 +451,7 @@
   </url>
   
   <url>
-    <loc>/notes/</loc>
+    <loc>/note/</loc>
   </url>
   
 </urlset>

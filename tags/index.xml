@@ -36,29 +36,5 @@
       <description></description>
     </item>
     
-    <item>
-      <title>DS-ML</title>
-      <link>/tags/ds-ml/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/ds-ml/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Medicine</title>
-      <link>/tags/medicine/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Others</title>
-      <link>/tags/others/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/others/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>
