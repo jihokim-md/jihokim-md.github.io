@@ -74,16 +74,6 @@
   <url>
     <loc>/en/tags/computer-science/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/tags/computer-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/computer-science/"
-                />
   </url>
   
   <url>
@@ -179,61 +169,21 @@
   <url>
     <loc>/en/banner/stats101/</loc>
     <lastmod>2019-10-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/stats101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/stats101/"
-                />
   </url>
   
   <url>
     <loc>/en/banner/</loc>
     <lastmod>2019-10-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/"
-                />
   </url>
   
   <url>
     <loc>/en/banner/python101/</loc>
     <lastmod>2019-10-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/python101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/python101/"
-                />
   </url>
   
   <url>
     <loc>/en/banner/mltheory/</loc>
     <lastmod>2019-10-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/mltheory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/mltheory/"
-                />
   </url>
   
   <url>

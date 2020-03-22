@@ -69,18 +69,38 @@
   </url>
   
   <url>
-    <loc>/tags/computer-science/</loc>
+    <loc>/tags/backend/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/computer-science/"
+                href="/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="/tags/computer-science/"
+                href="/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>/categories/computer-science/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/django/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/machine-learning/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -96,6 +116,11 @@
                 hreflang="ko"
                 href="/"
                 />
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -130,6 +155,26 @@
   
   <url>
     <loc>/blog/pytorch_1/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/pytorch_2-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/pytorch_2-%EB%B3%B5%EC%82%AC%EB%B3%B8-3-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/pytorch_2-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/</loc>
+    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/pytorch_2-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -180,66 +225,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/project/radiolopy/"
-                />
-  </url>
-  
-  <url>
-    <loc>/banner/stats101/</loc>
-    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/stats101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/stats101/"
-                />
-  </url>
-  
-  <url>
-    <loc>/banner/</loc>
-    <lastmod>2019-10-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/"
-                />
-  </url>
-  
-  <url>
-    <loc>/banner/python101/</loc>
-    <lastmod>2019-10-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/python101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/python101/"
-                />
-  </url>
-  
-  <url>
-    <loc>/banner/mltheory/</loc>
-    <lastmod>2019-10-02T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/banner/mltheory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/banner/mltheory/"
                 />
   </url>
   
@@ -304,21 +289,6 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/publication_types/"
-                />
-  </url>
-  
-  <url>
     <loc>/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -330,6 +300,21 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/publication/"
+                />
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="/publication_types/"
                 />
   </url>
   
@@ -433,20 +418,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/blogpage/"
-                />
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/categories/"
                 />
   </url>
   
