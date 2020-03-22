@@ -29,10 +29,26 @@
     </item>
     
     <item>
+      <title>Medical Imaging</title>
+      <link>/tags/medical-imaging/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/medical-imaging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Python</title>
       <link>/tags/python/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pytorch</title>
+      <link>/tags/pytorch/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/pytorch/</guid>
       <description></description>
     </item>
     

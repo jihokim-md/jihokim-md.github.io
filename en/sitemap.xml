@@ -387,16 +387,6 @@
   
   <url>
     <loc>/en/blogpage/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/blogpage/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blogpage/"
-                />
   </url>
   
   <url>
