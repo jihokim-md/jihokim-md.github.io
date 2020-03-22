@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="처음부터 시작하는 파이썬 라이브러리 개발기">
+  <meta name="description" content="머신러닝을 공부하고 파이썬을 사용하면서 편리했던 것 중 하나는 풍부한 라이브러리 였다. 어떤 기능이 필요해서 조금만 구글링을 해보면 이미 해당 기능을 구현해서 라이">
 
   
   <link rel="alternate" hreflang="ko" href="/blog/pytorch_1/">
@@ -85,7 +85,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.975ca2a25a48a6277670bd5e9b82dfb9.css">
+  <link rel="stylesheet" href="/css/academic.min.9a553e399cf13e82262fc58975539933.css">
 
   
 
@@ -117,7 +117,7 @@
   <meta property="og:site_name" content="MDneural.net">
   <meta property="og:url" content="/en/blog/pytorch_1/">
   <meta property="og:title" content="좌충우돌 파이토치 medical imaging 라이브러리 개발기-1 | MDneural.net">
-  <meta property="og:description" content="처음부터 시작하는 파이썬 라이브러리 개발기"><meta property="og:image" content="/en/blog/pytorch_1/featured.png">
+  <meta property="og:description" content="머신러닝을 공부하고 파이썬을 사용하면서 편리했던 것 중 하나는 풍부한 라이브러리 였다. 어떤 기능이 필요해서 조금만 구글링을 해보면 이미 해당 기능을 구현해서 라이"><meta property="og:image" content="/en/blog/pytorch_1/featured.png">
   <meta property="twitter:image" content="/en/blog/pytorch_1/featured.png"><meta property="og:locale" content="en-us">
   
     
@@ -154,10 +154,10 @@
 
       <div class="row no-gutters justify-content-between mb-3">
         <div class="col-6">
-          <h1>Search</h1>
+          <h1 style="font-weight: 800; margin-left: 5px;">Search</h1>
         </div>
         <div class="col-6 col-search-close">
-          <a class="js-search" href="#"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+          <a class="js-search" href="#"><i class="fas fa-times text-muted" aria-hidden="true" style="margin-right: 10px;"></i></a>
         </div>
       </div>
 
@@ -189,7 +189,6 @@
       
 
       
-
     
 
       
@@ -231,8 +230,6 @@
         
         
         
-          
-        
 
         
         
@@ -242,7 +239,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/coursepage"><span>Notes</span></a>
+          <a class="nav-link " href="/en/note"><span>Note</span></a>
         </li>
 
         
@@ -253,8 +250,6 @@
         
         
         
-          
-        
 
         
         
@@ -264,7 +259,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/en/blogpage"><span>Blog</span></a>
+          <a class="nav-link  active" href="/en/blog"><span>Blog</span></a>
         </li>
 
         
@@ -301,25 +296,7 @@
 
         
         <li class="nav-item">
-          <a class="nav-link js-search" href="#"><i class="fas fa-search" aria-hidden="true"></i></a>
-        </li>
-        
-        
-        
-        
-        <li class="nav-item dropdown">
-          <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true">
-            <span>🇺🇸</span>
-          </a>
-          <ul class="dropdown-menu">
-            
-            <li class="dropdown-item my-0 py-0 mx-0 px-0">
-              <a href="/blog/pytorch_1/">
-                <span>🇰🇷</span>
-              </a>
-            </li>
-            
-          </ul>
+          <a class="nav-link js-search" href="#" style="font-size:0.8em; margin-right: 5px;"><i class="fas fa-search" aria-hidden="true"></i></a>
         </li>
         
 
@@ -361,7 +338,7 @@
 
 
 <div class="article-container pt-3">
-  <h1>좌충우돌 파이토치 medical imaging 라이브러리 개발기-1</h1>
+  <h1 style="font-size: 2rem; margin: 20px 0 0 0; text-align: left; color: #333e4c; font-family: Source Sans Pro; font-weight: 700;">좌충우돌 파이토치 medical imaging 라이브러리 개발기-1</h1>
 
   
 
@@ -392,6 +369,10 @@
   
 
   
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/en/categories/machine-learning/">Machine Learning</a></span>
   
 
 </div>
@@ -447,7 +428,7 @@
 </div>
 
 
-<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 500px; max-height: 500px;">
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 600px; max-height: 200px;">
   <div style="position: relative">
     <img src="/en/blog/pytorch_1/featured.png" alt="" class="featured-image">
     
@@ -471,7 +452,11 @@
 
 <div class="article-tags">
   
-  <a class="badge badge-light" href="/en/tags/computer-science/">Computer Science</a>
+  <a class="badge badge-light" href="/en/tags/python/">Python</a>
+  
+  <a class="badge badge-light" href="/en/tags/pytorch/">Pytorch</a>
+  
+  <a class="badge badge-light" href="/en/tags/medical-imaging/">Medical Imaging</a>
   
 </div>
 
@@ -490,9 +475,9 @@
     <h3>Related</h3>
     <ul>
       
-      <li><a href="/en/blog/django_1/">Python/Django를 이용한 웹사이트 개발기-1</a></li>
+      <li><a href="/en/blog/pytorch_2/">좌충우돌 파이토치에서 사용하는 medical imaging 라이브러리 for radiologist 개발기-2</a></li>
       
-      <li><a href="/en/blog/template/">Template</a></li>
+      <li><a href="/en/blog/django_1/">Python/Django를 이용한 웹사이트 개발기-1</a></li>
       
     </ul>
   </div>
@@ -620,10 +605,24 @@
         smartBackspace: true,
         loop: true,
         loopCount: Infinity,
-        backDelay: 1500,
+        backDelay: 1600,
         backSpeed: 10,
         showCursor: false
       });
+    </script>
+    <script type="text/javascript">
+      function textLengthOverCut(txt, len, lastTxt) {
+        if (len == "" || len == null) { 
+            len = 20;
+        }
+        if (lastTxt == "" || lastTxt == null) { 
+            lastTxt = "...";
+        }
+        if (txt.length > len) {
+            txt = txt.substr(0, len) + lastTxt;
+        }
+        return txt;
+      }
     </script>
     
 
@@ -635,14 +634,37 @@
   
   
   <div class="container">
-    <footer class="site-footer">
-  
 
-  <p class="powered-by">
     
-  </p>
+      <footer class="site-footer">
+  
+  
+  <div class="col-3 col-md-3" style="display: inline-block; padding: 0;">
+    <p style="text-align: left">
+      
+
+
+
+
+
+  <a class="translate" href="/blog/pytorch_1/" style="text-align: left;"><img src="/img/korean.png" style="height: 14px;">
+  </a>
+  <a class="translate_mobile" href="/blog/pytorch_1/" style="text-align: left;">🇰🇷
+  </a>  
+
+
+
+    </p>
+  </div>
+  <div class="col-6 col-md-6" style="display: inline-block; padding: 0;">
+    <p class="powered-by">
+      MDneural.net &copy; 2020
+    </p>
+  </div>
+  
 </footer>
 
+    
   </div>
   
 

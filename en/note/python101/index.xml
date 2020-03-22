@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Intro to Python | MDneural.net</title>
+    <link>/en/note/python101/</link>
+      <atom:link href="/en/note/python101/index.xml" rel="self" type="application/rss+xml" />
+    <description>Intro to Python</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>MDneural.net © 2020</copyright><lastBuildDate>Fri, 01 Dec 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/en/note/python101/featured.png</url>
+      <title>Intro to Python</title>
+      <link>/en/note/python101/</link>
+    </image>
+    
+    <item>
+      <title>마크다운 사용법</title>
+      <link>/en/note/python101/1.1_first/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/en/note/python101/1.1_first/</guid>
+      <description>
+
+&lt;h2 id=&#34;마크다운-주요-문법&#34;&gt;마크다운 주요 문법&lt;/h2&gt;
+
+&lt;h2 id=&#34;blockquote&#34;&gt;BlockQuote&lt;/h2&gt;
+
+&lt;p&gt;이메일에서 사용하는 &lt;code&gt;&amp;gt;&lt;/code&gt; 블럭인용문자를 이용한다.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;gt; This is a blockqute.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a first blockqute.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a second blockqute.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;This is a third blockqute.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;이 안에서는 다른 마크다운 요소를 포함할 수 있다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;h3 id=&#34;this-is-a-h3&#34;&gt;This is a H3&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;List
+&lt;code&gt;code&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;순서있는-목록-번호&#34;&gt;순서있는 목록(번호)&lt;/h2&gt;
+
+&lt;p&gt;순서있는 목록은 숫자와 점을 사용한다.
+&lt;strong&gt;어떤 번호를 입력해도 순서는 내림차순으로 정의된다.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;1. 첫번째
+3. 세번째
+2. 두번째
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ol&gt;
+&lt;li&gt;첫번째&lt;/li&gt;
+&lt;li&gt;세번째&lt;/li&gt;
+&lt;li&gt;두번째&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&#34;순서없는-목록-기호&#34;&gt;순서없는 목록(기호)&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;* 빨강
+  * 녹색
+    * 파랑
+
++ 빨강
+  + 녹색
+    + 파랑
+
+- 빨강
+  - 녹색
+    - 파랑
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;빨강&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;녹색&lt;/li&gt;
+&lt;li&gt;파랑&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;빨강&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;녹색&lt;/li&gt;
+&lt;li&gt;파랑&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;빨강&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;녹색&lt;/li&gt;
+&lt;li&gt;파랑&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;혼합해서 사용하는 것도 가능하다&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* 1단계
+    - 2단계
+    	+ 3단계
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1단계
+
+&lt;ul&gt;
+&lt;li&gt;2단계
+
+&lt;ul&gt;
+&lt;li&gt;3단계&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;코드-pre-code-code-pre&#34;&gt;코드&lt;code&gt;&amp;lt;pre&amp;gt;, &amp;lt;code&amp;gt;, &amp;lt;/code&amp;gt;, &amp;lt;/pre&amp;gt;&lt;/code&gt;&lt;/h2&gt;
+
+&lt;p&gt;4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;한줄 띄어쓰면 인식이 제대로 안되는 문제가 발생하곤 합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;pre&gt;&lt;code&gt;This is a normal paragraph:
+
+    This is a code block.
+end code block.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;
+This is a normal paragraph:
+    This is a code block.
+end code block.
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;실제로 적용해보면,
+&lt;code&gt;
+This is a normal paragraph:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;This is a code block.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;end code block.
+&lt;/code&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;수평선-hr&#34;&gt;수평선&lt;code&gt;&amp;lt;hr/&amp;gt;&lt;/code&gt;&lt;/h2&gt;
+
+&lt;p&gt;아래 줄은 모두 수평선을 만든다. 마크다운 문서를 미리보기로 출력할 때 &lt;em&gt;페이지 나누기&lt;/em&gt; 용도로 많이 사용한다.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;링크&#34;&gt;링크&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;참조링크&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;[link keyword][id]
+[id]: URL &amp;quot;Optional Title here&amp;quot;
+
+[Google][googlelink]
+[googlelink]: https://google.com &amp;quot;Go google&amp;quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://google.com&#34; title=&#34;Go google&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;인라인 링크&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;syntax: [Title](link)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://google.com,&#34; title=&#34;google link&#34; target=&#34;_blank&#34;&gt;Google&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;자동연결&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;http://example.com/&amp;gt;
+&amp;lt;address@example.com&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://example.com/&#34; target=&#34;_blank&#34;&gt;http://example.com/&lt;/a&gt;
+&lt;a href=&#34;mailto:address@example.com&#34; target=&#34;_blank&#34;&gt;address@example.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;강조&#34;&gt;강조&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+++underline++
+~~cancelline~~
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;&lt;br /&gt;
+&lt;em&gt;single underscores&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;br /&gt;
+&lt;strong&gt;double underscores&lt;/strong&gt;&lt;br /&gt;
+++underline++&lt;br /&gt;
+&lt;del&gt;cancelline&lt;/del&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;이미지&#34;&gt;이미지&lt;/h2&gt;
+
+&lt;pre&gt;&lt;code&gt;![Alt text](/path/to/img.jpg &amp;quot;Optional title&amp;quot;)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0&#34; alt=&#34;석촌호수 러버덕&#34; title=&#34;RubberDuck&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;사이즈 조절 기능이 없어 &lt;code&gt;&amp;lt;img width=&amp;quot;&amp;quot; height=&amp;quot;&amp;quot;&amp;gt;&amp;lt;/img&amp;gt;&lt;/code&gt;를 이용한다.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;img src=&amp;quot;/path/to/img.jpg&amp;quot; width=&amp;quot;20%&amp;quot; height=&amp;quot;15%&amp;quot; alt=&amp;quot;RubberDuck&amp;quot;&amp;gt;&amp;lt;/img&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0&#34; width=&#34;40%&#34; height=&#34;30%&#34; title=&#34;%(비율) 크기 설정&#34; alt=&#34;RubberDuck&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

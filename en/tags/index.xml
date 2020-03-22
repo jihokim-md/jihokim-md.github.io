@@ -13,50 +13,42 @@
     </image>
     
     <item>
-      <title>Computer Science</title>
-      <link>/en/tags/computer-science/</link>
+      <title>Backend</title>
+      <link>/en/tags/backend/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/en/tags/computer-science/</guid>
+      <guid>/en/tags/backend/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Machine Learning</title>
-      <link>/en/tags/machine-learning/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/en/tags/machine-learning/</guid>
+      <title>Django</title>
+      <link>/en/tags/django/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/en/tags/django/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Source Themes</title>
-      <link>/en/tags/source-themes/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/en/tags/source-themes/</guid>
+      <title>Medical Imaging</title>
+      <link>/en/tags/medical-imaging/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/en/tags/medical-imaging/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>DS-ML</title>
-      <link>/en/tags/ds-ml/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/en/tags/ds-ml/</guid>
+      <title>Python</title>
+      <link>/en/tags/python/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/en/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Medicine</title>
-      <link>/en/tags/medicine/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/en/tags/medicine/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Others</title>
-      <link>/en/tags/others/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/en/tags/others/</guid>
+      <title>Pytorch</title>
+      <link>/en/tags/pytorch/</link>
+      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/en/tags/pytorch/</guid>
       <description></description>
     </item>
     
