@@ -28,12 +28,10 @@
   
     
   
-  <meta name="description" content="MD, Data Scientist, Django Developer">
+  <meta name="description" content="It&#39;s summary">
 
   
-  <link rel="alternate" hreflang="en" href="/en/categories/machine-learning/">
-  
-  <link rel="alternate" hreflang="ko-kr" href="/categories/machine-learning/">
+  <link rel="alternate" hreflang="ko-kr" href="/note/stats101/3.post1/">
 
   
 
@@ -98,14 +96,12 @@
 
 
   
-  <link rel="alternate" href="/categories/machine-learning/index.xml" type="application/rss+xml" title="MDneural.net">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/img/icon-32.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="/categories/machine-learning/">
+  <link rel="canonical" href="/note/stats101/3.post1/">
 
   
   
@@ -117,29 +113,34 @@
   <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="MDneural.net">
-  <meta property="og:url" content="/categories/machine-learning/">
-  <meta property="og:title" content="Machine Learning | MDneural.net">
-  <meta property="og:description" content="MD, Data Scientist, Django Developer"><meta property="og:image" content="img/logo.png">
+  <meta property="og:url" content="/note/stats101/3.post1/">
+  <meta property="og:title" content="Probability Redux | MDneural.net">
+  <meta property="og:description" content="It&#39;s summary"><meta property="og:image" content="img/logo.png">
   <meta property="twitter:image" content="img/logo.png"><meta property="og:locale" content="ko-kr">
   
-    <meta property="og:updated_time" content="2020-03-04T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2017-12-01T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2017-12-01T00:00:00&#43;00:00">
   
 
   
 
 
 
-
   
 
 
   
 
 
+  
 
 
 
-  <title>Machine Learning | MDneural.net</title>
+
+
+  <title>Probability Redux | MDneural.net</title>
 
 </head>
 
@@ -236,7 +237,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/note"><span>Note</span></a>
+          <a class="nav-link  active" href="/note"><span>Note</span></a>
         </li>
 
         
@@ -307,150 +308,253 @@
 </nav>
 
 
-  <section class="home-section wg-pages">
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 
-  
-  
-  
-    
-  
-
-
-  
-  
-  
-  
-    
-    
-  
-  
-  
-  <div class="container">  
-      <h1 style="font-size: 2rem; margin: 0; text-align: left; color: #333e4c; font-family: Source Sans Pro; font-weight: 700; text-transform: capitalize; line-height: 2rem;"><a href="https://www.mdneural.net/blog" style="font-size: 1rem; color: #333e4c60; line-height: 1rem">blog/</a><br>machine learning</h1>
-
+<div class="container-fluid docs">
+  <div class="row flex-lg-nowrap">
+    <div class="col-12 col-md-2 col-lg-2 docs-sidebar">
       
+
+
+
+
+
+  
+
+
+
+
+<form class="docs-search d-flex align-items-center">
+
+  
+  <input name="q" type="search" class="form-control" placeholder="Search..." autocomplete="off">
+  
+
+  <button class="btn docs-toggle d-md-none p-0 ml-3" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
+    <span><i class="fas fa-bars"></i></span>
+  </button>
+
+</form>
+
+<nav class="collapse docs-links" id="docs-nav">
+  
+
+  
+  
+  
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/note/stats101/">Chapter 1</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/note/stats101/1.post2/">두번째 포스트!</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/note/stats101/2.post1/">Chapter 2</a>
+    <ul class="nav docs-sidenav">
+      
+      <li >
+        <a href="/note/stats101/2.post1/">세번째 포스트!</a>
+      </li>
+      
+      <li >
+        <a href="/note/stats101/2.post2/">네번째 포스트!</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  <div class="docs-toc-item">
+    <a class="docs-toc-link" href="/note/stats101/3.post1/">Intro to Statistics</a>
+    <ul class="nav docs-sidenav">
+      
+      <li class="active">
+        <a href="/note/stats101/3.post1/">Probability Redux</a>
+      </li>
+      
+    </ul>
+    
+
+  </div>
+  
+  
+</nav>
+
+    </div>
+
+    
+    <div class="d-none d-lg-block col-lg-2 docs-toc">
+      <ul class="nav toc-top">
+        <li><a href="#" id="back_to_top" class="docs-toc-title">On this page</a></li>
+      </ul>
+
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#laws-of-large-numbers-큰-수의-법칙">Laws of Large Numbers (큰 수의 법칙)</a></li>
+<li><a href="#central-limit-theorem-중심극한-정리">Central Limit theorem (중심극한 정리)</a></li>
+<li><a href="#hoeffding-s-inequality-호에프딩-부등식">Hoeffding&rsquo;s Inequality (호에프딩 부등식)</a></li>
+<li><a href="#markov-inequality-마코브-부등식">Markov Inequality (마코브 부등식)</a></li>
+<li><a href="#chebyshev-inequality-체비쇼프-부등식">Chebyshev Inequality (체비쇼프 부등식)</a></li>
+</ul></li>
+</ul>
+</nav>
 
       
     </div>
+    
+
+    <main class="col-12 col-md-10 col-lg-8 py-md-3 pl-md-5 docs-content" role="main">
+
+      <article class="article">
+
+        <div class="docs-article-container">
+          <h1>Probability Redux</h1>
+          <hr style="margin-bottom: 2rem">
+          <div class="article-style">
+            
+
+<p>앞으로 통계 공부를 하는데 있어서 중요한 이론들을 다시 살펴보도록 하자</p>
+
+<p><br></p>
+
+<h2 id="laws-of-large-numbers-큰-수의-법칙">Laws of Large Numbers (큰 수의 법칙)</h2>
+
+<p>확률변수 $X_1, X_2,&hellip;,X_n\sim^{i.i.d} X$에 대해 $\mu = \sum [X]$,  $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.</p>
+
+<p>$$
+\bar X_n:=\frac{1}{n}\sum _{i=1}^ n X_i \xrightarrow [n\to \infty ]{\mathbf{P},\mbox{ a.s.}} \mu
+$$</p>
+
+<p><br></p>
+
+<h2 id="central-limit-theorem-중심극한-정리">Central Limit theorem (중심극한 정리)</h2>
+
+<p>확률변수 $X_1, X_2,&hellip;,X_n\sim^{i.i.d} X$에 대해 $\mu = \sum[X]$, $\sigma^2 = Var[X]$ 라면, 아래의 식이 성립한다.</p>
+
+<p>$$
+\displaystyle \sqrt{n}\, \frac{\bar X_ n-\mu }{\sigma } \quad \displaystyle \xrightarrow [n\to \infty ]{(d)} \quad \displaystyle \mathcal{N}(0,1)<br />
+$$</p>
+
+<p>$$
+\text{or equivalently, }\displaystyle \sqrt{n}\, (\bar X_ n-\mu) \quad \displaystyle \xrightarrow [n\to \infty ]{(d)} \quad \displaystyle \mathcal{N}(0,\sigma^2)
+$$</p>
+
+<p><br></p>
+
+<h2 id="hoeffding-s-inequality-호에프딩-부등식">Hoeffding&rsquo;s Inequality (호에프딩 부등식)</h2>
+
+<p>주어진 $n (n&gt;0)$에 대하여 동일한 분포를 갖는 독립확률변수 $X_1, X_2,&hellip;,X_n\sim^{i.i.d} X$가 거의 확실하게 수렴(almost surely convergence) 한다면, 다시 말해 $P(X \notin [a,b])=0,\quad a,b\ne\infty$ 라면</p>
+
+<p>모든 $\epsilon \gt 0$에 대해 아래의 식이 성립한다.
+$$
+P(|\overline{X_n} - \sum[X]| \geq \epsilon) \leq 2\exp\Bigg(-\frac{2n\epsilon^2}{(b-a)^2}\Bigg)
+$$</p>
+
+<blockquote>
+<p>중심극한정리와는 다르게 <strong>Hoeffding&rsquo;s Inequality에서는 n이 클 필요가 없다.</strong></p>
+</blockquote>
+
+<p><br></p>
+
+<h2 id="markov-inequality-마코브-부등식">Markov Inequality (마코브 부등식)</h2>
+
+<p>확률변수 $X \geq 0$ 의 평균 $\mu &gt; 0$이면 모든 $t&gt;0$에 대해  아래의 식이 성립한다.
+$$
+P(X \geq t) \leq \frac{\mu}{t}.
+$$</p>
+
+<p><i>Note: 마크로브 부등식은 0이상의 확률변수에 대해서만 성립한다.</i></p>
+
+<p><br></p>
+
+<h2 id="chebyshev-inequality-체비쇼프-부등식">Chebyshev Inequality (체비쇼프 부등식)</h2>
+
+<p>평균이 $\mu$이고 분산이 $\sigma^2$인 확률변수 $X$는 모든 $t&gt;0$에 대해  아래의 식이 성립한다.
+$$
+P(|X - \mu| \geq t) \leq \frac{\sigma^2}{t^2}
+$$</p>
+
+<blockquote>
+<p>Markov inequality에 $(X-\mu)^2$를 적용하면 Chebyshev inequality를 구할 수 있다.
+뿐만아니라 Markov inequality는 Hoeffding&rsquo;s inequality를 증명할때 사용되기도 한다.</p>
+</blockquote>
+
+          </div>
+
+          
+
+
+
+          
+          <div class="article-widget">
+            
+<div class="post-nav">
+  
+  
+  
+  <div class="post-nav-item">
+    <div class="meta-nav">다음 글</div>
+    <a href="/note/stats101/1.post2/" rel="prev">두번째 포스트!</a>
   </div>
+  
+</div>
+
+          </div>
+          
+        </div>
+
+        <div class="body-footer">
+
+          
 
 
 
+
+          
+<section id="comments">
+  
 </section>
 
-<div class="container" style="padding-top: 30px">
 
-  
-  
-  
-  
-  
-    
-  
-  
-  
+        </div>
 
-  <div class="tag-cloud">
-    
+      </article>
+
+      <footer class="site-footer">
+  
+  
+  <div class="col-3 col-md-3" style="display: inline-block; padding: 0;">
+    <p style="text-align: left">
+      
+
+
+
+    </p>
   </div>
-
-
+  <div class="col-6 col-md-6" style="display: inline-block; padding: 0;">
+    <p class="powered-by">
+      MDneural.net &copy; 2020
+    </p>
+  </div>
   
+</footer>
 
-  
-  
 
-    <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/blog\/pytorch_1\/';">
-
-      
-      
-      
-      
-
-          <img src="/blog/pytorch_1/featured_huf03792acbf2a29b4165a24b5bfcf70b1_126381_600x200_fill_q90_lanczos_smart1_2.png" class="article-thumbnail" alt="">
-      
-
-      <div>
-        <h3 class="article-title mb-2 mt-2">
-          <a href="/blog/pytorch_1/">좌충우돌 파이토치 medical imaging 라이브러리 개발기-1</a>
-        </h3>
-        <div class="article-style">
-          <p>
-        
-        머신러닝을 공부하고 파이썬을 사용하면서 편리했던 것 중 하나는 풍부한 라 …
-        </p>
-        </div>
-        
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/python/">Python</a>
-  
-  <a class="badge badge-light" href="/tags/pytorch/">Pytorch</a>
-  
-  <a class="badge badge-light" href="/tags/medical-imaging/">Medical Imaging</a>
-  
+    </main>
+  </div>
 </div>
 
-
-      </div>
-    </div>
-  
-
-    <div class="card-simple" style=" cursor: pointer;" onclick="location.href='\/blog\/pytorch_2\/';">
-
-      
-      
-      
-      
-
-          <img src="/blog/pytorch_2/featured_huf03792acbf2a29b4165a24b5bfcf70b1_126289_600x200_fill_q90_lanczos_smart1_2.png" class="article-thumbnail" alt="">
-      
-
-      <div>
-        <h3 class="article-title mb-2 mt-2">
-          <a href="/blog/pytorch_2/">좌충우돌 파이토치에서 사용하는 medical imaging …</a>
-        </h3>
-        <div class="article-style">
-          <p>
-        
-        머신러닝을 공부하고 파이썬을 사용하면서 편리했던 것 중 하나는 풍부한 라 …
-        </p>
-        </div>
-        
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/python/">Python</a>
-  
-  <a class="badge badge-light" href="/tags/pytorch/">Pytorch</a>
-  
-  <a class="badge badge-light" href="/tags/medical-imaging/">Medical Imaging</a>
-  
-</div>
-
-
-      </div>
-    </div>
-  
-
-  
-
-</div>
 
       
 
@@ -515,6 +619,11 @@
     
 
     
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.1/anchor.min.js" integrity="sha256-pB/deHc9CGfFpJRjC43imB29Rse8tak+5eXqntO94ck=" crossorigin="anonymous"></script>
+    <script>
+      anchors.add();
+    </script>
     
 
     
@@ -596,40 +705,6 @@
 
 
   
-  
-  <div class="container">
-
-    
-      <footer class="site-footer">
-  
-  
-  <div class="col-3 col-md-3" style="display: inline-block; padding: 0;">
-    <p style="text-align: left">
-      
-
-
-
-
-
-  <a class="translate" href="/en/categories/machine-learning/" style="text-align: left;"><img src="/img/english.png" style="height: 12px;">
-  </a>
-  <a class="translate_mobile" href="/en/categories/machine-learning/" style="text-align: left;">🇺🇸
-  </a>
-
-
-
-    </p>
-  </div>
-  <div class="col-6 col-md-6" style="display: inline-block; padding: 0;">
-    <p class="powered-by">
-      MDneural.net &copy; 2020
-    </p>
-  </div>
-  
-</footer>
-
-    
-  </div>
   
 
   

@@ -48,18 +48,8 @@
   </url>
   
   <url>
-    <loc>/note/stats101/1.post1/</loc>
+    <loc>/note/stats101/3.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/note/stats101/1.post1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/note/stats101/1.post1/"
-                />
   </url>
   
   <url>
@@ -416,6 +406,16 @@
   <url>
     <loc>/project/dr.-intelli/</loc>
     <lastmod>2018-10-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/note/stats101/2.post2/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/note/stats101/2.post1/</loc>
+    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
