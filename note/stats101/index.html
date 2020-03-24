@@ -85,7 +85,7 @@
   
   
   
-  <link rel="stylesheet" href="/css/academic.min.a044322a837f040f3060ffb38cbf41f4.css">
+  <link rel="stylesheet" href="/css/academic.min.7263a6fc46c278b01ad6d8aa306d4c26.css">
 
   
 
@@ -179,7 +179,7 @@
 
   
   
-<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main" style="box-shadow: 0px 2px 3px 0px #333e4c60;">
+<nav class="navbar navbar-light fixed-top navbar-expand-lg py-0 compensate-for-scrollbar" id="navbar-main" style="box-shadow: 0px 2px 2px 0px #333e4c20;">
   <div class="container" style="margin-top: -10px; max-width: 100%;">
   
     
@@ -214,13 +214,6 @@
         
 
         
-        
-        <form class="docs-search d-flex align-items-center" style="padding: 10px" >
-          <button class="btn docs-toggle d-md-none p-0" type="button" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="false" aria-label="Toggle section navigation">
-            <span><i class="fas fa-bars"></i></span>
-          </button>
-        </form>
-        
 
       </ul>
 
@@ -230,9 +223,20 @@
 
   
 
+
+
+
+
+  
+
+
 <div class="container-fluid docs">
   <div class="row flex-lg-nowrap">
-    <div class="col-12 col-md-2 col-lg-2 docs-sidebar">
+    <div class="col-12 col-md-2 col-lg-2" style="padding: 0">
+          <div class="ml-3 docs-toggle-lg" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="true" aria-label="Toggle section navigation">
+            <span class="btn btn-outline-primary docs-toggle"><i class="fas fa-bars"></i>&nbsp stats101</span>
+          </div>
+      <div class="collapse docs-sidebar" id="docs-nav">
       
 
 
@@ -245,7 +249,10 @@
 
 
 
-<nav class="collapse docs-links" id="docs-nav">
+<nav class="docs-links">
+  <div class="ml-3 docs-toggle-sm" data-toggle="collapse" data-target="#docs-nav" aria-controls="docs-nav" aria-expanded="true" aria-label="Toggle section navigation">
+    <span class="btn btn-outline-primary docs-toggle">&nbsp<i class="fas fa-chevron-left"></i>&nbsp</span>
+  </div>
   
 
   
@@ -260,10 +267,11 @@
     
 
   </div>
+
   
   <div class="docs-toc-item">
     
-    <span class="docs-toc-link" style="color: #333e4c; font-weight: 400;">Chapter 1</span>
+    <span class="docs-toc-nonlink">Chapter 1</span>
     
     <ul class="nav docs-sidenav">
       
@@ -275,10 +283,11 @@
     
 
   </div>
+
   
   <div class="docs-toc-item">
     
-    <span class="docs-toc-link" style="color: #333e4c; font-weight: 400;">Chapter 2</span>
+    <span class="docs-toc-nonlink">Chapter 2</span>
     
     <ul class="nav docs-sidenav">
       
@@ -294,10 +303,11 @@
     
 
   </div>
+
   
   <div class="docs-toc-item">
     
-    <span class="docs-toc-link" style="color: #333e4c; font-weight: 400;">Intro to Statistics</span>
+    <span class="docs-toc-nonlink">Intro to Statistics</span>
     
     <ul class="nav docs-sidenav">
       
@@ -309,10 +319,12 @@
     
 
   </div>
+
   
   
 </nav>
 
+      </div> 
     </div>
 
     
@@ -327,7 +339,7 @@
     </div>
     
 
-    <main class="col-12 col-md-10 col-lg-8 py-md-3 pl-md-4 docs-content" role="main">
+    <main class="col-12 col-md-10 col-lg-8 pl-md-4 docs-content" role="main">
 
       <article class="article">
 
