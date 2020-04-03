@@ -14,33 +14,6 @@
     
     <item>
       <title>Python/Django를 이용한 웹사이트 개발기-1</title>
-      <link>/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/</guid>
-      <description>&lt;p&gt;필자는 데이터 사이언스를 공부하면서 파이썬을 익혔던 처음엔 파이썬이 데이터사이언스 영역에서만 쓰이는 줄 알았었다. 하지만 웹사이트를 만들어야하는 일이 생기면서 front-end/back-end의 다양한 스택을 찾아보면서 파이썬이 급성장한 배경에는 장고(django)가 있었다는걸 깨달았다.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Python/Django를 이용한 웹사이트 개발기-1</title>
-      <link>/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/</guid>
-      <description>&lt;p&gt;필자는 데이터 사이언스를 공부하면서 파이썬을 익혔던 처음엔 파이썬이 데이터사이언스 영역에서만 쓰이는 줄 알았었다. 하지만 웹사이트를 만들어야하는 일이 생기면서 front-end/back-end의 다양한 스택을 찾아보면서 파이썬이 급성장한 배경에는 장고(django)가 있었다는걸 깨달았다.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Python/Django를 이용한 웹사이트 개발기-1</title>
-      <link>/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/</guid>
-      <description>&lt;p&gt;필자는 데이터 사이언스를 공부하면서 파이썬을 익혔던 처음엔 파이썬이 데이터사이언스 영역에서만 쓰이는 줄 알았었다. 하지만 웹사이트를 만들어야하는 일이 생기면서 front-end/back-end의 다양한 스택을 찾아보면서 파이썬이 급성장한 배경에는 장고(django)가 있었다는걸 깨달았다.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Python/Django를 이용한 웹사이트 개발기-1</title>
       <link>/en/blog/django_1/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
       <guid>/en/blog/django_1/</guid>

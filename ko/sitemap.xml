@@ -249,51 +249,6 @@
   </url>
   
   <url>
-    <loc>/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-2/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8-3/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/blog/django_1-%EB%B3%B5%EC%82%AC%EB%B3%B8/"
-                />
-  </url>
-  
-  <url>
     <loc>/blog/django_1/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -350,21 +305,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/blog/pytorch_1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/pytorch_2/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/pytorch_2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/blog/pytorch_2/"
                 />
   </url>
   
