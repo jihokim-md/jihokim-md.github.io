@@ -18,99 +18,13 @@
   </url>
   
   <url>
-    <loc>/note/mltheory/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/note/mltheory/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/note/mltheory/"
-                />
-  </url>
-  
-  <url>
-    <loc>/note/python101/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/note/python101/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/note/python101/"
-                />
-  </url>
-  
-  <url>
     <loc>/note/stats101/3.post1/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/note/mltheory/1.post1/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/note/mltheory/1.post1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/note/mltheory/1.post1/"
-                />
-  </url>
-  
-  <url>
-    <loc>/note/python101/1.1_first/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/note/python101/1.1_first/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/note/python101/1.1_first/"
-                />
-  </url>
-  
-  <url>
-    <loc>/note/mltheory/1.post2/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/note/mltheory/1.post2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/note/mltheory/1.post2/"
-                />
-  </url>
-  
-  <url>
     <loc>/note/stats101/1.post2/</loc>
     <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/note/python101/1.2_second_thing/</loc>
-  </url>
-  
-  <url>
-    <loc>/note/python101/1.3_3rd_-things/</loc>
-  </url>
-  
-  <url>
-    <loc>/note/python101/2.1_post4/</loc>
   </url>
   
   <url>
@@ -129,21 +43,6 @@
   </url>
   
   <url>
-    <loc>/tags/backend/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/backend/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/tags/backend/"
-                />
-  </url>
-  
-  <url>
     <loc>/categories/</loc>
     <lastmod>2020-03-04T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -155,36 +54,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>/categories/computer-science/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/categories/computer-science/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/categories/computer-science/"
-                />
-  </url>
-  
-  <url>
-    <loc>/tags/django/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/tags/django/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/tags/django/"
                 />
   </url>
   
@@ -245,21 +114,6 @@
                 rel="alternate"
                 hreflang="ko"
                 href="/tags/python/"
-                />
-  </url>
-  
-  <url>
-    <loc>/blog/django_1/</loc>
-    <lastmod>2020-03-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/blog/django_1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="/blog/django_1/"
                 />
   </url>
   

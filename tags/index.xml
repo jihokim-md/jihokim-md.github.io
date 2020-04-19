@@ -13,22 +13,6 @@
     </image>
     
     <item>
-      <title>Backend</title>
-      <link>/tags/backend/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/backend/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Django</title>
-      <link>/tags/django/</link>
-      <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/tags/django/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Medical Imaging</title>
       <link>/tags/medical-imaging/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
