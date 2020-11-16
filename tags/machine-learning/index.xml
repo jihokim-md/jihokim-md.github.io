@@ -5,20 +5,12 @@
     <link>/tags/machine-learning/</link>
       <atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Machine Learning</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2020</copyright><lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>ko-kr</language><copyright>MDneural.net © 2020</copyright><lastBuildDate>Tue, 23 Oct 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>img/logo.png</url>
       <title>Machine Learning</title>
       <link>/tags/machine-learning/</link>
     </image>
-    
-    <item>
-      <title>Radiolopy</title>
-      <link>/project/radiolopy/</link>
-      <pubDate>Mon, 02 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/project/radiolopy/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Dr. INTELLI</title>
